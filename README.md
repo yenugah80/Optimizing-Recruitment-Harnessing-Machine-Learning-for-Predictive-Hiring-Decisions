@@ -1,12 +1,13 @@
-Optimizing Recruitment: Harnessing Machine Learning for Predictive Hiring Decisions
+## Optimizing Recruitment: Harnessing Machine Learning for Predictive Hiring Decisions
 
-Project Description
+## Project Description
 This project explores the use of machine learning models to optimize recruitment by predicting hiring decisions based on candidate profiles. The aim is to streamline recruitment by using models such as CatBoost, Random Forest, and XGBoost to predict whether a candidate will be hired.
 
-Files and Folders
-`fp_codes.ipynb`: The Jupyter notebook containing the code for the machine learning models and analysis.
-`recruitment_data.csv`: The dataset used in the project. (If the dataset is too large, include a link to its location).
-`slides.pptx`: Presentation slides summarizing the project.
+## Files and Folders
+`Final Project JPNB.ipynb`: The Jupyter notebook containing the code for the machine learning models and analysis.
+`recruitment_data.csv`: The dataset used in the project. 
+`Final Project Powerpoint PPT.pptx`: Presentation slides summarizing the project.
+`Final Project Research Paper.pdf`: Research Paper.
 
 How to Run the Code : This code will run in any python environments for this below are the steps:
 Clone the repository
@@ -20,7 +21,7 @@ pip install r requirements.txt
     
 Open the Jupyter notebook:
 bash
-jupyter notebook fp_codes.ipynb
+jupyter notebook Final Project JPNB.ipynb
    
 Dataset
 The dataset contains 1,500 candidate profiles with features such as:

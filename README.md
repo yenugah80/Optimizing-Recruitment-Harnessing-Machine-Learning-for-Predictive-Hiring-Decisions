@@ -32,17 +32,17 @@ Experience Years
 Skill and Personality Scores
 Hiring Decision
 
-Key Models Used
+## Key Models Used
 CatBoost
 Random Forest
 XGBoost
 
-Results
+## Results
 CatBoost outperformed other models with an accuracy of 96%.
 
-Conference
+## Conference
 This project is being submitted to the [AIRC conference] (https://www.ieeeras.org/conferencesworkshops/conferences).
 
- Future Work
+## Future Work
  Improve model performance with additional features.
  Explore bias mitigation techniques.
